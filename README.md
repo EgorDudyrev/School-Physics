@@ -7,7 +7,7 @@ App includes 2 levels: the first models law of conservation of impulse, the seco
 
 Lately it was turned into scientific paper ang got the second place at
 "Regional theoretical and practical conference for school students" in Udmurt Republic, Russia in 2015.
-It also took part in MIPT's "Start in science" conferencion in 2015. Got no place because I had got chicken pox :(
+It also took part in MIPT's "Start in science" conferencion in 2015. Got no places because I had got chicken pox :(
 
 
 App uses OpenGL library.
